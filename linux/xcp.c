@@ -16,7 +16,7 @@ int main( int argc, char* argv[] )
 	off_t offset = 0;
 
 	/* now open the input file */
-	read_fd = open (arg[1], O_RDONLY);
+	read_fd = open (argv[1], O_RDONLY);
 	/* obtain the size of the input file */
 	fstat ( read_fd, &stat_buf);
 }
