@@ -47,3 +47,22 @@
 <a>
   <img src="https://github.com/stan-alam/C/blob/develop/Pointers/images/01/C-pointers01%20-%2012.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/C/blob/develop/Pointers/images/01/C-pointers01%20-%2013.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/C/blob/develop/Pointers/images/01/C-pointers01%20-%2014.png" width="80%" height="80%">
+</a>
+
+```C
+//cb 4A
+char *names[] = {"Hanks", "Wilson", "Grizzly_Adams"};
+printf("%c\n",*(*names+1)+2));
+printf("%c\n",names[1],[2]);
+```
+
+<a>
+  <img src="https://github.com/stan-alam/C/blob/develop/Pointers/images/01/C-pointers01%20-%2015.png" width="80%" height="80%">
+</a>
