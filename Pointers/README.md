@@ -66,3 +66,15 @@ printf("%c\n",names[1],[2]);
 <a>
   <img src="https://github.com/stan-alam/C/blob/develop/Pointers/images/01/C-pointers01%20-%2015.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/C/blob/develop/Pointers/images/01/C-pointers01%20-%2016.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/C/blob/develop/Pointers/images/01/C-pointers01%20-%2017.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/C/blob/develop/Pointers/images/01/C-pointers01%20-%2018.png" width="80%" height="80%">
+</a>
