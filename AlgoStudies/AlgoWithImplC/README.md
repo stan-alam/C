@@ -1,6 +1,6 @@
 ## Algorithms with Implementations in C
 
-**Opposing View on using code instead mathematics to express Algorithms**
+**Opposing View(s) on using code vs mathematics to express Algorithms**
 
 https://www.asianscientist.com/2020/03/features/smu-gyss2020-leslie-lamport/
 
