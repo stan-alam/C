@@ -52,3 +52,15 @@ for (int i = 0; i < n; i++)
 <a>
   <img src="https://github.com/stan-alam/C/blob/develop/AlgoStudies/AlgoWithImplC/02/images/AlgoImpC01%20-%2024B.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/C/blob/develop/AlgoStudies/AlgoWithImplC/02/images/AlgoImpC01%20-%2025.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/C/blob/develop/AlgoStudies/AlgoWithImplC/02/images/AlgoImpC01%20-%2026.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/C/blob/develop/AlgoStudies/AlgoWithImplC/02/images/AlgoImpC01%20-%2027.png" width="80%" height="80%">
+</a>
