@@ -19,4 +19,13 @@ int main( int argc, char* argv[] )
 	read_fd = open (argv[1], O_RDONLY);
 	/* obtain the size of the input file */
 	fstat ( read_fd, &stat_buf);
+	/* open output file for write - same permissions as source */
+	write_fd = open (arg[2], O_WRONLY | O_CREAT, stat_buf.st_mode);
+	/* stream bytes from source file to target file*/
+	sendfile(write_fd, read_fd, &offset, stat_buf.st_size);
+	/*close*/
+	close(read_fd);
+	close(write_fd);
+
+	return 0;
 }
