@@ -191,7 +191,7 @@ $ sudo apt install libsdl2-dev
 ```
 
 ## 02
-
+```ascii
 project structure
 []-3Drenderer
 |_makefile
@@ -199,3 +199,4 @@ project structure
     |_main.c
     |_mesh.h
     |_mesh.c
+```
