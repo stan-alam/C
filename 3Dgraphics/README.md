@@ -9,13 +9,27 @@ $ sudo apt install libsdl2-dev
 ## 02
 ```ascii
 project structure
-[]-3Drenderer
+[]-3drenderer
 |_makefile
 |_src
     |_main.c
     |_mesh.h
     |_mesh.c
 ```
+
+2.04 - compilation flow
+
+2.05 - make file
+
+```bash
+$ gcc -Wall -std=c99 src/*.c -o renderer
+```
+**sometimes there's a lot of flags, so put it into the make file**
+put in the root of the dir, the Makefile
+```bash
+$ vi Makefile
+```
+
 
 ```ascii
 Table of Contents
