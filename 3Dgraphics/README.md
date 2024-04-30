@@ -183,3 +183,19 @@ Table of Contents
 166 Edge Function & Constant Increments
 167 Subpixel Rasterization
 168 Next Steps
+
+## 01
+```bash
+$ sudo apt install build-essential
+$ sudo apt install libsdl2-dev
+```
+
+## 02
+
+project structure
+[]-3Drenderer
+|_makefile
+|_src
+    |_main.c
+    |_mesh.h
+    |_mesh.c
