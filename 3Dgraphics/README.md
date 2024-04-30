@@ -1,19 +1,23 @@
-Learn all the theory and the math behind 3D graphics while creating a software renderer from scratch using the C programming language.
+## Learn all the theory and the math behind 3D graphics while creating a software renderer from scratch using the C programming language.
 
-This course is a complete immersion into the fundamentals of computer graphics! You’ll learn how a software 3D engine works under the hood, and use the C programming language to write a complete software rasterizer from scratch; including textures, camera, clipping, and loading complex OBJ files. Pixel per pixel, triangle per triangle, mesh per mesh.
+## 01
+```bash
+$ sudo apt install build-essential
+$ sudo apt install libsdl2-dev
+```
 
-We’ll review all the beautiful math that makes 3D computer graphics possible as we tackle all concepts from first principles. We’ll also write a comprehensive software renderer that can display complex 3D objects on the screen without the help of any graphics API. No GPU, no OpenGL, no DirectX! Just a C compiler and a little bit of linear algebra is all we need to create a final project that is nothing short of amazing!
+## 02
+```ascii
+project structure
+[]-3Drenderer
+|_makefile
+|_src
+    |_main.c
+    |_mesh.h
+    |_mesh.c
+```
 
-The tools you’ll need
-We’ll simply use the command-line, a code editor, and a C compiler. All these tools are multi-platform, so you’ll be able to code along on either Windows, macOS, or Linux!
-
-Also, make sure you have pen and paper ready for the lectures. This course will probably be a little bit different than other programming courses you took before. We will take our sweet time and make sure we understand every formula we find along the way!
-
-Is this course for you?
-This is a self-contained course with no prerequisites. However, you will probably get the most out of it if you already know the basics of coding (if-else, loops, functions).
-
-If you never programmed in C before, don’t worry! Many successful students come from different languages like Java, Python, JavaScript, Swift, and others. We’ll learn to work with the C language together.
-
+```ascii
 Table of Contents
 1 Introduction and Learning Outcomes
 2 How to Take this Course
@@ -183,20 +187,4 @@ Table of Contents
 166 Edge Function & Constant Increments
 167 Subpixel Rasterization
 168 Next Steps
-
-## 01
-```bash
-$ sudo apt install build-essential
-$ sudo apt install libsdl2-dev
-```
-
-## 02
-```ascii
-project structure
-[]-3Drenderer
-|_makefile
-|_src
-    |_main.c
-    |_mesh.h
-    |_mesh.c
 ```
